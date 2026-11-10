@@ -70,7 +70,7 @@ def call_llm(system_prompt, user_prompt, max_attempts=4, initial_backoff=1):
 
     groq_headers = {"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json"}
     groq_payload = {
-        "model": "llama-3.3-70b-versatile",
+        "model": "openai/gpt-oss-120b",
         "response_format": {"type": "json_object"},
         "messages": [
             {"role": "system", "content": system_prompt},

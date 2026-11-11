@@ -2,5 +2,9 @@
   {
     "topic": "How to merge multiple Excel files into one using Python",
     "title": "Merge Multiple Excel Files into One with Python - Step-by-Step"
+  },
+  {
+    "topic": "How to rename hundreds of files at once with Python",
+    "title": "How to Batch Rename Files in Python: A Step-by-Step Guide"
   }
 ]

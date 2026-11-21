@@ -22,5 +22,9 @@
   {
     "topic": "How to send automated email reports with Python",
     "title": "How to Send Automated Email Reports with Python (Step-by-Step)"
+  },
+  {
+    "topic": "How to scrape product prices and save them to Google Sheets with Python",
+    "title": "How to Scrape Product Prices to Google Sheets with Python"
   }
 ]

@@ -26,5 +26,9 @@
   {
     "topic": "How to scrape product prices and save them to Google Sheets with Python",
     "title": "How to Scrape Product Prices to Google Sheets with Python"
+  },
+  {
+    "topic": "How to read and write Google Sheets with Python using gspread",
+    "title": "How to Read and Write Google Sheets with Python (gspread Tutorial)"
   }
 ]

@@ -34,5 +34,9 @@
   {
     "topic": "How to organize your Downloads folder automatically with Python",
     "title": "How to Auto-Organize Downloads Folder with Python in 10 Minutes"
+  },
+  {
+    "topic": "How to build a simple expense tracker with Python and SQLite",
+    "title": "Build a Simple Expense Tracker with Python and SQLite"
   }
 ]
